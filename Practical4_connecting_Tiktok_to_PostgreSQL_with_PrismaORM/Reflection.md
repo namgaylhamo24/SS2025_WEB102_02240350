@@ -1,4 +1,5 @@
-# Personal Reflection 
+**Note:** This folder only contains the `README.md` and `Reflection.md` files. The actual implementation of the practical work can be found in the `Practical2_API_Design_and_Implementation_Tiktok` folder.
+
 ## Looking Back on My Development Journey
 
 When I first started this project to connect a TikTok-inspired application to PostgreSQL using Prisma ORM, I'll admit I felt both excited and a bit overwhelmed. What began as a simple database connection evolved into a comprehensive learning experience that taught me so much about modern backend development.

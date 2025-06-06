@@ -1,5 +1,4 @@
-
-# Practical 4: Connecting TikTok to PostgreSQL with Prisma ORM
+**Note:** This folder only contains the `README.md` and `Reflection.md` files. The actual implementation of the practical work can be found in the `Practical2_API_Design_and_Implementation_Tiktok` folder.
 
 ## Objectives
 - Set up a PostgreSQL database for our TikTok clone application
